@@ -1447,19 +1447,19 @@
               "includeIfNotAvailable": false
             },
             {
-              "name": "CoVID Vaccination Status_status",
+              "name": "CoVID Vaccination Status",
               "field": "CoVID_Vaccination_Status__status",
               "contentType": "string",
               "includeIfNotAvailable": false
             },
             {
-              "name": "CoVID Vaccination Status_antigen",
+              "name": "CoVID Vaccination Status - antigen",
               "field": "CoVID_Vaccination_Status__antigen",
               "contentType": "string",
               "includeIfNotAvailable": false
             },
             {
-              "name": "CoVID Vaccination Status_manufacturer",
+              "name": "CoVID Vaccination Status - manufacturer",
               "field": "CoVID_Vaccination_Status__manufacturer",
               "contentType": "string",
               "includeIfNotAvailable": false
